@@ -67,7 +67,11 @@ namespace RecursionPeople
                     }
                 }
             }
-            
+
+            if (!saludador.Equals(people[people.Count-1]))
+            {
+                throw new Exception("Grret chain is broken");
+            }
             return people;
         }
     }

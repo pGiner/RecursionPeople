@@ -42,8 +42,7 @@ namespace RecursionPeople.Test
         [TestMethod]
         public void BrokenSaluteChainTest()
         {
-            Assert.ThrowsException<Exception>(() => Recursivity.Saludar("Eusebio", "Juan"));
-            Assert.ThrowsException<Exception>(() => Recursivity.Saludar("Clara", "Paquito"));
+            Assert.ThrowsException<Exception>(() => Recursivity.Saludar("Raul", "Juan"));
         }
     }
 }
