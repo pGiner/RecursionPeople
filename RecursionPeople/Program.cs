@@ -7,10 +7,10 @@ namespace RecursionPeople
     {
         static void Main(string[] args)
         {
-            List<String> people= new List<String>();
-            people = Recursivity.Saludar("Clara", "Juan");
-            people.ForEach(Console.WriteLine);
 
+            List<String> people= new List<String>();
+            people = Recursivity.Saludar("Raul", "Juan");
+            people.ForEach(Console.WriteLine);
         }
     }
 }

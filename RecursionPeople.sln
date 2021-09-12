@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionPeople", "RecursionPeople\RecursionPeople.csproj", "{B8987680-181E-4CC3-81A0-702528DB35CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionPeople.Test", "RecursionPeople.Test\RecursionPeople.Test.csproj", "{5F327A97-F567-4D10-82ED-FCE6D6B24BF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionPeople.Test", "RecursionPeople.Test\RecursionPeople.Test.csproj", "{84699798-6E1B-4616-86C3-B87BE0DA62DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B8987680-181E-4CC3-81A0-702528DB35CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8987680-181E-4CC3-81A0-702528DB35CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8987680-181E-4CC3-81A0-702528DB35CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5F327A97-F567-4D10-82ED-FCE6D6B24BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F327A97-F567-4D10-82ED-FCE6D6B24BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F327A97-F567-4D10-82ED-FCE6D6B24BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F327A97-F567-4D10-82ED-FCE6D6B24BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84699798-6E1B-4616-86C3-B87BE0DA62DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84699798-6E1B-4616-86C3-B87BE0DA62DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84699798-6E1B-4616-86C3-B87BE0DA62DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84699798-6E1B-4616-86C3-B87BE0DA62DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
